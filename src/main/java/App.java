@@ -13,6 +13,7 @@ public class App {
     EventLogger eventLogger;
 
 // first commit in Sergey K
+// second commit in Sergey K
 
     public App(Client client, EventLogger eventLogger) {
 

@@ -15,6 +15,8 @@ public class App {
 // first commit in Sergey K
 // second commit in Sergey K
 
+    // rebase try
+
     public App(Client client, EventLogger eventLogger) {
 
         this.client = client;

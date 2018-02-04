@@ -12,7 +12,7 @@ public class App {
     Client client;
     EventLogger eventLogger;
 
-
+// first commit in Sergey K
 
     public App(Client client, EventLogger eventLogger) {
 

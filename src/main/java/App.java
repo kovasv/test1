@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * Created by Kovalenko on 03.06.2017.
  */
+// hotfix
 public class App {
 
     Client client;

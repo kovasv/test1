@@ -21,8 +21,10 @@ public class App {
 
         this.client = client;
         this.eventLogger = eventLogger;
+        if (lines==10){
+            System.out.println("URA");}
+        else System.out.println("FUCK");
     }
-
 
 
 

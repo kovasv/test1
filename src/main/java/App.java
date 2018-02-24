@@ -25,8 +25,6 @@ public class App {
             System.out.println("URA");}
         else System.out.println("FUCK");
 
-
-
     }
 
 

@@ -50,5 +50,7 @@ public class App {
         String message = msg.replaceAll(client.getId(), client.getFullName());
         event.setMsg(message);
         eventLogger.logEvent(event);
+
+        // commit 15
     }
 }

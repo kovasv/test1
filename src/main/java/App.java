@@ -24,6 +24,7 @@ public class App {
         if (lines==10){
             System.out.println("URA");}
         else System.out.println("FUCK");
+
     }
 
 

@@ -22,11 +22,15 @@ public class App {
 
         this.client = client;
         this.eventLogger = eventLogger;
+
         if (lines==10){
             System.out.println("URA");}
         else System.out.println("FUCK");
 
     }
+
+
+
 // commit 11
 // commit 12
 // commit 13
@@ -54,8 +58,11 @@ public class App {
         event.setMsg(message);
         eventLogger.logEvent(event);
 
+
         // commit 16
         // commit 17
         // pull request
+
+
     }
 }

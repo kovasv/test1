@@ -13,10 +13,6 @@ public class App {
     Client client;
     EventLogger eventLogger;
 
-// first commit in Sergey K
-// second commit in Sergey K
-
-    // rebase try
 
     public App(Client client, EventLogger eventLogger) {
 
@@ -29,12 +25,6 @@ public class App {
 
     }
 
-
-
-// commit 11
-// commit 12
-// commit 13
-// commit 14
 
 
     public  static void main(String[] args){
@@ -57,11 +47,6 @@ public class App {
         String message = msg.replaceAll(client.getId(), client.getFullName());
         event.setMsg(message);
         eventLogger.logEvent(event);
-
-
-        // commit 16
-        // commit 17
-        // pull request
 
 
     }
